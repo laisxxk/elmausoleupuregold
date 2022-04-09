@@ -114,7 +114,13 @@ left:400px;
 
 
 }
+#background-video {
+  position: relative;
+  min-width: 100%;
 
+}
+
+.encaixa img { display: block; }
 	.carta4{
 	height:100px;
 	width:100px;
