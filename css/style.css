@@ -67,6 +67,13 @@ left:400px;
 	position:absolute;
 	}
 	
+	.carta1titulo{
+	height:100px;
+	width:170px;
+	top:1260px;
+	left:120px;
+	position:absolute;}
+	
 	.carta1 img:hover{
 	    box-shadow: 0 0 25px 1px #d6be6f;
 		 transition: all 0.3s ease-in-out;
