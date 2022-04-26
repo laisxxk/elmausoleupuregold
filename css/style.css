@@ -149,6 +149,14 @@ left:400px;
 	left:810px;
 	position:absolute;}
 	
+			.carta5titulo{
+	height:100px;
+	width:170px;
+	top:1260px;
+	left:1040px;
+	position:absolute;}
+
+	
 		.carta4 img:hover{
 	    box-shadow: 0 0 25px 1px #d6be6f;
 		 transition: all 0.3s ease-in-out;
